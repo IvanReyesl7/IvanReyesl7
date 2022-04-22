@@ -6,4 +6,4 @@
 - 📫 How to reach me: ... ivan_reyesl5@outlook.com
 - 😄 Pronouns: ... he/his
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanReyesl7 anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanReyesl7&layout=compact)](https://github.com/IvanReyesl7/github-readme-stats)
