@@ -1,8 +1,7 @@
-### Hi there 👋
+###   Hi there 👋
 
 - 🔭 I’m currently working on ... myself
-- 🌱 I’m currently learning ... css and Javascript
-- 👯 I’m looking to collaborate on ... the community
+- 🌱 I’m currently learning ... Javascript, SASS and GULP
 - 📫 How to reach me: ... ivan_reyesl5@outlook.com
 - 😄 Pronouns: ... he/his
 
